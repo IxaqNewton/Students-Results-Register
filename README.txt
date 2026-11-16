@@ -1,7 +1,7 @@
 BCS 2204 - DATA STRUCTURES AND ALGORITHMS - GROUP COURSEWORK 1
 Scenario 6: Student Results Register (dynamic array with capacity doubling)
-ATEGEKA ANDREW
-VU-BCS-2507-1756-DAY
+ISAAC NEWTON MAWANDA
+VU-BCS-2507-2429-DAY
 
 ************************
 1. FILES
@@ -14,7 +14,7 @@ results.txt     Sample data file, 10 records, one per line
 
 Data format in results.txt (comma separated, no spaces around the commas):
 RegNo,Name,Course,Marks
-Example: VU-BCS-2507-1756-DAY,ATEGEKA ANDREW,Computer Science,78
+Example: VU-BCS-2507-2429-DAY,ISAAC NEWTON MAWANDA,Computer Science,90
 
 *************************
 2. REQUIREMENTS
